@@ -16,7 +16,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 5. [A Guide to Creating and Using Your Own Matplotlib Style](#a-guide-to-creating-and-using-your-own-matplotlib-style)  
 
-6. [Generate Easily Reproducible Scientific Figures with Pylustrator](#generate-easily-reproducible-scientific-figures-with-pylustrator)
+6. [Generate Easily Reproducible Scientific Figures with Pylustrator](#generate-easily-reproducible-scientific-figures-with-pylustrator)  
+
+7. [Create Panel Figure Layouts in Matplotlib with Gridspec](#create-panel-figure-layouts-in-matplotlib-with-gridspec)
 
 ---  
 
@@ -89,5 +91,17 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Link to Article: </b>[https://towardsdatascience.com/generate-easily-reproducible-scientific-figures-with-pylustrator-9426292e07a4](https://towardsdatascience.com/generate-easily-reproducible-scientific-figures-with-pylustrator-9426292e07a4)  
 
 <b>Python Script: </b>[plot.py](./pylustrator-example/plot.py)  
+
+---  
+
+### <b>Create Panel Figure Layouts in Matplotlib with Gridspec</b>  
+
+<p align='center'>
+<img src='https://miro.medium.com/max/1400/1*AgMgkqr-LhMDgXmxZBYXpA.png' height=400px>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0)  
+
+<b>Notebook: </b>[gridspec.ipynb](./gridspec/gridspec.ipynb)  
 
 ---
