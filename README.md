@@ -18,7 +18,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 6. [Generate Easily Reproducible Scientific Figures with Pylustrator](#generate-easily-reproducible-scientific-figures-with-pylustrator)  
 
-7. [Create Panel Figure Layouts in Matplotlib with Gridspec](#create-panel-figure-layouts-in-matplotlib-with-gridspec)
+7. [Create Panel Figure Layouts in Matplotlib with Gridspec](#create-panel-figure-layouts-in-matplotlib-with-gridspec)  
+
+8. [Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals](#intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals)  
 
 ---  
 
@@ -103,5 +105,17 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Link to Article: </b>[https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0)  
 
 <b>Notebook: </b>[gridspec.ipynb](./gridspec/gridspec.ipynb)  
+
+---  
+
+### <b>Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals</b>  
+
+<p align="center">
+<img src="https://miro.medium.com/max/1400/1*ak0mnVpwdPSmlI1aKTUvPw.png" height=400px>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a#9512-73cf3e25e1a0](https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a#9512-73cf3e25e1a0)  
+
+<b>Notebook: </b>[time_series.ipynb](./time_series/time_series.ipynb)  
 
 ---
