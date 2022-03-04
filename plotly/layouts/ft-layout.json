@@ -14,7 +14,5 @@
         "gridcolor": "#eedfd0"
     },
     "plot_bgcolor": "#fff0e4",
-    "paper_bgcolor": "#fff0e4",
-    "height": 600,
-    "width": 800
+    "paper_bgcolor": "#fff0e4"
 }
