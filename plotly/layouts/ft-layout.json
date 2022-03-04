@@ -1,0 +1,20 @@
+{
+    "xaxis": {
+        "zeroline": false,
+        "showgrid": false,
+        "showline": true,
+        "linecolor": "#9ca498",
+        "ticks": "outside",
+        "tickwidth": 1,
+        "ticklen": 8,
+        "tickcolor": "#9ca498"
+    },
+    "yaxis": {
+        "zerolinecolor": "#dbcfc1",
+        "gridcolor": "#eedfd0"
+    },
+    "plot_bgcolor": "#fff0e4",
+    "paper_bgcolor": "#fff0e4",
+    "height": 600,
+    "width": 800
+}
