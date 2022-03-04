@@ -1,0 +1,41 @@
+{
+    "font": {
+        "family": "NanumGothic"
+    },
+    "xaxis": {
+        "title": {
+            "font": {
+                "size": 18
+            }
+        },
+        "tickfont": {
+            "size": 14
+        },
+        "showline": true,
+        "linewidth": 2,
+        "mirror": "ticks",
+        "showgrid": false,
+        "ticks": "inside",
+        "tickwidth": 2,
+        "ticklen": 10,
+        "zeroline": false
+    },
+    "yaxis": {
+        "title": {
+            "font": {
+                "size": 18
+            }
+        },
+        "tickfont": {
+            "size": 14
+        },
+        "showline": true,
+        "linewidth": 2,
+        "mirror": "ticks",
+        "showgrid": false,
+        "ticks": "inside",
+        "tickwidth": 2,
+        "ticklen": 10,
+        "zeroline": false
+    }
+}
