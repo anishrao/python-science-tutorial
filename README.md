@@ -22,9 +22,11 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 8. [Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals](#intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals)  
 
+9. [An Introduction to Plotly for Matplotlib Users](#an-introduction-to-plotly-for-matplotlib-users)
+
 ---  
 
-### <b>An Introduction to Making Scientific Publication Plots with Python</b>  
+### An Introduction to Making Scientific Publication Plots with Python   
 
 <p align='center'>
 <img src='https://miro.medium.com/max/808/1*3hgnupbwTYNkWsf44a7QAw.png' height=400px>
@@ -36,7 +38,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>Basic Curve Fitting of Scientific Data With Python</b>  
+### Basic Curve Fitting of Scientific Data With Python  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/784/1*vN3Fuen7j4IJWNq3yuZzbQ.png' height=400px>
@@ -48,7 +50,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>Visualizing Three-Dimensional Data - Heatmaps, Contours, and 3D Plots with Python</b>  
+### Visualizing Three-Dimensional Data - Heatmaps, Contours, and 3D Plots with Python   
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1326/1*GVYJCJ3DyVO9TbnpUhSM5Q.png' height=400px>
@@ -60,7 +62,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>Intro to Dynamic Visualization with Python - Animations and Interactive Plots</b>  
+### Intro to Dynamic Visualization with Python - Animations and Interactive Plots  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/866/1*PxqmKvYvn2AUDxC_GetC9Q.gif' height=400px>
@@ -72,7 +74,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>A Guide to Creating and Using Your Own Matplotlib Style</b>  
+### A Guide to Creating and Using Your Own Matplotlib Style  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1118/1*eTIbkSjuW5KNqPgEJsFaYA.png' height=400px>
@@ -84,7 +86,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---
 
-### <b>Generate Easily Reproducible Scientific Figures with Pylustrator</b>  
+### Generate Easily Reproducible Scientific Figures with Pylustrator   
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1400/1*bqQFD7BgHk6CBu_ebfTQmg.png' height=400px>
@@ -96,7 +98,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---  
 
-### <b>Create Panel Figure Layouts in Matplotlib with Gridspec</b>  
+### Create Panel Figure Layouts in Matplotlib with Gridspec  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1400/1*AgMgkqr-LhMDgXmxZBYXpA.png' height=400px>
@@ -108,7 +110,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---  
 
-### <b>Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals</b>  
+### Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals  
 
 <p align="center">
 <img src="https://miro.medium.com/max/1400/1*ak0mnVpwdPSmlI1aKTUvPw.png" height=400px>
@@ -117,5 +119,17 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Link to Article: </b>[https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a#9512-73cf3e25e1a0](https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a#9512-73cf3e25e1a0)  
 
 <b>Notebook: </b>[time_series.ipynb](./time_series/time_series.ipynb)  
+
+---  
+
+### An Introduction to Plotly for Matplotlib Users  
+
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/1600/1*Sx7anzG5gQhWqZKFK3SKtA.png" height=400px>
+</p>  
+
+<b>Link to Article: </b>  
+
+<b>Notebook: </b>[plotly.ipynb](./plotly/plotly.ipynb)  
 
 ---
