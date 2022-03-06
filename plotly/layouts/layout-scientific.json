@@ -1,38 +1,48 @@
 {
+    "font": {
+        "family": "Avenir"
+    },
+    "hoverlabel": {
+        "font": {
+            "family": "Avenir"
+        }
+    },
     "xaxis": {
         "title": {
             "font": {
                 "size": 18
-            }
+            },
+            "text": "Date"
         },
         "tickfont": {
-            "size": 14
+            "size": 16
         },
         "showline": true,
-        "linewidth": 2,
         "mirror": "ticks",
-        "showgrid": false,
+        "linewidth": 2,
         "ticks": "inside",
+        "ticklen": 8,
         "tickwidth": 2,
-        "ticklen": 10,
-        "zeroline": false
+        "showgrid": false
     },
     "yaxis": {
         "title": {
             "font": {
                 "size": 18
-            }
+            },
+            "text": "Closing Price ($)"
         },
         "tickfont": {
-            "size": 14
+            "size": 16
         },
         "showline": true,
-        "linewidth": 2,
         "mirror": "ticks",
-        "showgrid": false,
+        "linewidth": 2,
         "ticks": "inside",
+        "ticklen": 8,
         "tickwidth": 2,
-        "ticklen": 10,
-        "zeroline": false
-    }
+        "showgrid": false
+    },
+    "height": 600,
+    "width": 600
 }
