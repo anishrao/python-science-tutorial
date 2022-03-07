@@ -128,7 +128,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <img src="https://cdn-images-1.medium.com/max/1600/1*Sx7anzG5gQhWqZKFK3SKtA.png" height=400px>
 </p>  
 
-<b>Link to Article: </b>  
+<b>Link to Article: </b>[https://towardsdatascience.com/an-introduction-to-plotly-for-matplotlib-users-9f4f0d2113bc](https://towardsdatascience.com/an-introduction-to-plotly-for-matplotlib-users-9f4f0d2113bc)  
 
 <b>Notebook: </b>[plotly.ipynb](./plotly/plotly.ipynb)  
 
