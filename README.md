@@ -22,7 +22,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 8. [Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals](#intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals)  
 
-9. [An Introduction to Plotly for Matplotlib Users](#an-introduction-to-plotly-for-matplotlib-users)
+9. [An Introduction to Plotly for Matplotlib Users](#an-introduction-to-plotly-for-matplotlib-users)  
+
+10. [Creating Various Plot Types and Subplots with Plotly](#creating-various-plot-types-and-subplots-with-plotly)
 
 ---  
 
@@ -131,5 +133,17 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Link to Article: </b>[https://towardsdatascience.com/an-introduction-to-plotly-for-matplotlib-users-9f4f0d2113bc](https://towardsdatascience.com/an-introduction-to-plotly-for-matplotlib-users-9f4f0d2113bc)  
 
 <b>Notebook: </b>[plotly.ipynb](./plotly/plotly.ipynb)  
+
+---  
+
+### Creating Various Plot Types and Subplots with Plotly  
+
+<p align="center">
+<img src="https://miro.medium.com/max/1400/1*mS91b0xoyLHfKHbr_Q3RdQ.png", height=400px>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/creating-various-plot-types-and-subplots-with-plotly-bd727f808262](https://towardsdatascience.com/creating-various-plot-types-and-subplots-with-plotly-bd727f808262)  
+
+<b>Notebook: </b>[plotly-charts.ipynb](./plotly-charts/plotly-charts.ipynb)  
 
 ---
